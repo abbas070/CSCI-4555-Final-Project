@@ -1,6 +1,6 @@
 # Project Background
 
-The purpose of this project is to create a model to classify images into 10 predetermined classes. Throughout our work on the project, we constantly attempted to reduce the loss and improve the accuracy of our model. For this project we decided to use Python for implementation, for several reasons:
+This is the final project for the Neural Networks and Machine Learning (CSCI 4555) class in Spring 2022. The purpose of this project is to create a model to classify images into 10 predetermined classes. Throughout our work on the project, we constantly attempted to reduce the loss and improve the accuracy of our model. For this project we decided to use Python for implementation, for several reasons:
 
 - We wanted to gain a better understanding of the language.
 - Python is the best language available for working with machine learning models and algorithms; Python has many libraries that support machine learning projects such as tensorflow.
